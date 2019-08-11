@@ -8,6 +8,8 @@ self.addEventListener('install', function(e) {
          '/',
          '/index.html',
          '/css/style.css',
+         '/css/img/bg_main2.png',
+         '/css/img/bg_bedrock.png',
          '/1-start-here.html',
          '/2-getting-started.html',
          '/3-welcome-to-minecraft-earth.html',
@@ -31,8 +33,7 @@ self.addEventListener('install', function(e) {
          '/img/beacon.png',
          '/img/diamond_pickaxe.png',
          '/img/clock.png',
-         '/css/img/bg_main2.png',
-         '/css/img/bg_bedrock.png'
+         '/img/mcearth.png'
      ]);
    })
  );
