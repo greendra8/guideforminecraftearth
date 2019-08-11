@@ -6,7 +6,6 @@ self.addEventListener('install', function(e) {
    caches.open('mceguide-offline').then(function(cache) {
      return cache.addAll([
          '/',
-         '/index.html',
          '/css/style.css',
          '/index.html',
          '/img/crafting-table.png',
@@ -21,8 +20,7 @@ self.addEventListener('install', function(e) {
          '/img/diamond_pickaxe.png',
          '/img/clock.png',
          '/css/img/bg_main2.png',
-         '/css/img/bg_bedrock.png',
-         'https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap'
+         '/css/img/bg_bedrock.png'
      ]);
    })
  );
