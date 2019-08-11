@@ -8,7 +8,7 @@ self.addEventListener('install', function(e) {
          '/',
          '/index.html',
          '/css/style.css',
-         '/css/img/bg_main2.png',
+         '/css/img/bg_main.png',
          '/css/img/bg_bedrock.png',
          '/css/img/logo.png',
          '/1-start-here.html',
