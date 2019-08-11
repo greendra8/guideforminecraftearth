@@ -13,7 +13,7 @@ self.addEventListener('install', function(e) {
          '/1-start-here.html',
          '/2-getting-started.html',
          '/3-welcome-to-minecraft-earth.html',
-         '/4-inventory',
+         '/4-inventory.html',
          '/5-tappables.html',
          '/5.1-tappable-types.html',
          '/6-item-types.html',
