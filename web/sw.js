@@ -6,6 +6,7 @@ self.addEventListener('install', function(e) {
    caches.open('mceguide-offline').then(function(cache) {
      return cache.addAll([
          '/',
+         '/index.html',
          '/css/style.css',
          '/index.html',
          '/img/crafting-table.png',
