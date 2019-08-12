@@ -98,17 +98,17 @@ h1,h2,h3,h4,h5,h6 {
     visibility: hidden;
 }
 #site-title {
-    font-size: 8vw;
+    font-size: 7.8vw;
     text-align: center;
     line-height: 1em;
-    padding: 9px 0 2px 0;
+    padding: 9px 5px 2px 5px;
     white-space: nowrap;
 
 }
 #site-subtitle {
     font-size: 3.5vw;
     text-align: center;
-    padding-bottom: 9px;
+    padding-bottom: 4px;
 }
 p,a {
     font-family: sans-serif;
