@@ -86,6 +86,7 @@
     <footer> </footer>
     </div>
 </body>
+<!--
 <script>
 if('serviceWorker' in navigator) {
   navigator.serviceWorker
@@ -93,4 +94,5 @@ if('serviceWorker' in navigator) {
            .then(function() { console.log("Service Worker Registered"); });
 }
 </script>
+-->
 </html>
