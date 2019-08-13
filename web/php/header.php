@@ -1,4 +1,4 @@
-<a href="/">
+<a href="/index.php">
     <div class="header">
         <h2 id="site-title">Minecraft Earth Guide</h2>
         <h2 id="site-subtitle">Your #1 Pocket Guide To Minecraft Earth</h2>
