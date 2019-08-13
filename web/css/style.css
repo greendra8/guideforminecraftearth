@@ -144,7 +144,7 @@ b {
     font-weight: 600;
     font-size: 18px;
     text-shadow: 0 2px 0 rgba(0,0,0,0.3);
-    box-shadow: rgba(0, 0, 0, 0.30) 0px 2px 20px;
+    box-shadow: rgba(0, 0, 0, 0.30) 2px 2px 2px;
 
 }
 .next-button {
@@ -163,7 +163,7 @@ b {
     font-weight: 600;
     font-size: 18px;
     text-shadow: 0 2px 0 rgba(0,0,0,0.3);
-    box-shadow: rgba(0, 0, 0, 0.30) 0px 2px 20px;
+    box-shadow: rgba(0, 0, 0, 0.30) 2px 2px 2px;
 }
 
 
