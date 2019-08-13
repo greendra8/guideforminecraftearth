@@ -9,7 +9,7 @@
             <img class="list-item-image" src="/img/diamond_pickaxe.png">
             <h3 class="list-item-title">What are Adventures?</h3>
             <div class="list-item-description">
-                <p>Well, they’re pretty much the survival mode of Minecraft Earth. They involve exploration, fighting hostile mobs and mining for resources. Oh, and of course burning alive in lava. 😉</p>
+                <p>Well, they’re pretty much the survival mode of Minecraft Earth. They involve exploration, fighting hostile mobs and mining for resources. Oh, and of course burning alive in lava.</p>
                 <p>Dying in adventures, as you’d expect, causes you to lose all of the items that you’re carrying.</p>
                 <p>But don’t worry, you’ll still keep all of the items you’ve collected from tappables. They’re kept separate. But things such as food, tools, and resources that you’ve mined will be dropped. So be careful!</p>
                 <p>To take part in an adventure, you first have to find one. They spawn randomly around the world, but you’ll have to get close to one to be able to start! Once you’re in range, all you have to do is tap on the adventure icon shown on your map.</p>
