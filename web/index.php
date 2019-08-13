@@ -1,8 +1,8 @@
 <html> 
-    <?php include "/php/head.php"; ?>
+    <?php include "php/head.php"; ?>
 <body style="margin-bottom: 0;">
     <div class="wrapper">
-    <?php include "/php/header.php"; ?>
+    <?php include "php/header.php"; ?>
     <div class="content">
         <div class="list-item">
             <img class="list-item-image" src="/img/crafting-table.png">

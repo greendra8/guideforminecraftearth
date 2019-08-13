@@ -1,8 +1,8 @@
 <html>
-    <?php include "/php/head.php"; ?>
+    <?php include "php/head.php"; ?>
 <body>
     <div class="wrapper">
-    <?php include "/php/header.php"; ?>
+    <?php include "php/header.php"; ?>
     <div class="content">
         <div class="list-item">
             <h1 class="article-title">Introduction to Minecraft Earth</h1>

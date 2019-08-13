@@ -7,8 +7,8 @@ self.addEventListener('install', function(e) {
      return cache.addAll([
          '/',
          '/index.php',
-         '/php/head.php',
-         '/php/header.php',
+         'php/head.php',
+         'php/header.php',
          '/css/style.css',
          '/css/img/bg_main.png',
          '/css/img/bg_bedrock.png',
