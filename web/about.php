@@ -11,7 +11,7 @@
             <div class="list-item-description">
             <p>The Minecraft Earth Guide app is an unofficial Minecraft Earth guide with the aim of quickly and efficiently informing players on how to perform Minecraft Earth related tasks, and was created with the intent to educate players in an easy and simple manor.</p>
             </div>
-            <h3 class="list-item-title">Legal AnD Contact</h3>
+            <h3 class="list-item-title">Legal And Contact</h3>
             <div class="list-item-description">
             <p>The Minecraft Earth Guide App <b>is not affiliated or associated with Minecraft, Mojang or Microsoft, or any official body in connection with the Minecraft Earth project.</b></p>
             <p>All images hosted on this site are under the Creative Commons license.</p>
