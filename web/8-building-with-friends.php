@@ -1,24 +1,8 @@
-<!DOCTYPE HTML> 
-<head>
-    <link rel="stylesheet" href="/css/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap" rel="stylesheet">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-
-</head>
+<html>
+    <?php include "/php/head.php"; ?>
 <body>
     <div class="wrapper">
-    <a href="/">
-        <div class="header">
-            <h2 id="site-title">Minecraft Earth Guide</h2>
-            <h2 id="site-subtitle">Your #1 Pocket Guide To Minecraft Earth</h2>
-        </div>
-    </a>
-    
-    <div class="header-copy"><h2 id="site-title">Minecraft Earth Guide</h2><h2 id="site-subtitle">Your #1 Pocket Guide To Minecraft Earth</h2></div>
-
-    
+        <?php include "/php/header.php"; ?>
     <div class="content">
         <div class="list-item">
             <h1 class="article-title">Building with friends</h1>
@@ -35,5 +19,6 @@
     </footer>
     </div>
     <form><input class="back-button" type="button" value="Go Back" onclick="history.back()"></form>
-    <a class="next-button" href="9-place-your-build.html">Next</a>
+    <a class="next-button" href="9-place-your-build.php">Next</a>
 </body>
+</html>
