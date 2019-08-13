@@ -71,7 +71,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about.php",
-    "revision": "5a6a15f464a9c022ffb43eb9d9c1a093"
+    "revision": "65dcea6ef43fb73e16056c8da67bc049"
   },
   {
     "url": "cache-pollyfill.js",
