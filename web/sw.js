@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "10-adventures.php",
-    "revision": "16a2b0508ca32fb89b07bfff5c702cf3"
+    "revision": "c40ebb98405385895e46d0f2c03bc814"
   },
   {
     "url": "2-getting-started.php",
@@ -71,7 +71,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about.php",
-    "revision": "231fcd58eb88cb82a12097fb0a809073"
+    "revision": "02e512e9bec2c659cdf48ff258b9995e"
   },
   {
     "url": "cache-pollyfill.js",
@@ -167,7 +167,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "48e1cb40e304afdb6f35fda5fabd7052"
+    "revision": "8571e976dd641cf55cfa828297c5941f"
   },
   {
     "url": "php/head.php",
@@ -175,7 +175,7 @@ self.__precacheManifest = [
   },
   {
     "url": "php/header.php",
-    "revision": "bb0db31054479491ae78f0baf4911b60"
+    "revision": "5e4aab922379a1ffd6a73ba84bb09e26"
   },
   {
     "url": "sw_old.js",
