@@ -71,7 +71,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about.php",
-    "revision": "d08a988329c70e44f21161cff5a932c1"
+    "revision": "231fcd58eb88cb82a12097fb0a809073"
   },
   {
     "url": "cache-pollyfill.js",
@@ -167,7 +167,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "1815f042f01612a2d93dcc69eddc3ce1"
+    "revision": "48e1cb40e304afdb6f35fda5fabd7052"
   },
   {
     "url": "php/head.php",
