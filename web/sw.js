@@ -3,7 +3,7 @@ importScripts('/cache-pollyfill.js');
 
 self.addEventListener('install', function(e) {
  e.waitUntil(
-   caches.open('mceguide-offline-1').then(function(cache) {
+   caches.open('mceguide-offline-2').then(function(cache) {
      return cache.addAll([
          '/',
          '/index.php',

@@ -11,7 +11,7 @@
             <div class="list-item-description">
             <p>First things first, you're going to need to sign up to get access to the Minecraft Earth beta. The beta isn't currently available to everyone, and so the quicker you register the sooner you'll get to play.</p>
             <p>To sign up, you'll need to give your email and your physical address. You'll also need your Xbox Live account and your Google Playstore / Apple ID.</p>
-            <p>This is so that Mojang can give game access to players in one city at a time, and so that when the time comes around for you to start playing, you'll have the beta already on your apple or google account, ready to play right away.</p>
+            <p>This is so that Mojang can give game access to players in one city at a time, and so that when the time comes around for you to start playing, you'll have the beta already on your apple or google account, ready to play right away..</p>
             <p><a target="_blank" href="https://earth.minecraft.net/en-us/sign-up">https://earth.minecraft.net/en-us/sign-up</a></p>
             </div>
             
