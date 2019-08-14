@@ -5,7 +5,7 @@
         <?php include "php/header.php"; ?>
     <div class="content">
         <div class="list-item">
-            <h1 class="article-title">About the App</h1>
+            <h1 class="article-title">About the app</h1>
             <img style="max-width: 230px;padding: 0;margin-top: 20px;margin-bottom: 20px;border-radius: 20px;" class="list-item-image" src="/css/img/logo.png">
             <h3 class="list-item-title">What is the Minecraft Earth Guide App?</h3>
             <div class="list-item-description">
