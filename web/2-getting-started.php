@@ -27,7 +27,6 @@
     <footer> 
     </footer>
     </div>
-    <form><input class="back-button" type="button" value="Go Back" onclick="history.back()"></form>
     <a class="next-button" href="3-welcome-to-minecraft-earth.php">Next</a>
 </body>
 </html>

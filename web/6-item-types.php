@@ -28,7 +28,6 @@
     <footer> 
     </footer>
     </div>
-    <form><input class="back-button" type="button" value="Go Back" onclick="history.back()"></form>
     <a class="next-button" href="7-introduction-to-build-plates.php">Next</a>
 </body>
 </html>

@@ -27,47 +27,47 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "1-start-here.php",
-    "revision": "f4b8428c991cca2d8dec4d0a86895d7f"
+    "revision": "b6aa27cc24bc4ed87b2968418e0b2ab2"
   },
   {
     "url": "10-adventures.php",
-    "revision": "53f3cf4b029e5c39e065bdb736f21cfa"
+    "revision": "0fd82e2f6b369d424d94fd033de42fef"
   },
   {
     "url": "2-getting-started.php",
-    "revision": "ec9ec4aa519669437031556b30515c4f"
+    "revision": "2b38b6398705cc62023028e928772ad8"
   },
   {
     "url": "3-welcome-to-minecraft-earth.php",
-    "revision": "c8be54107d7c520a918167132f02043d"
+    "revision": "4d961e06728fa2e4cf21881e31dd6a8c"
   },
   {
     "url": "4-inventory.php",
-    "revision": "79e881db2d8bd56e934892cd5ccce90a"
+    "revision": "110869614b3374a29718ed32629a8224"
   },
   {
     "url": "5-tappables.php",
-    "revision": "5860edaa699da4bb8cffb3798c3a9a6b"
+    "revision": "4adf82a8d56ef46872fa1ec7e96f46e1"
   },
   {
     "url": "5.1-tappable-types.php",
-    "revision": "16491c27ad502413285e85a14599e7bf"
+    "revision": "7183b7e44cd381760b8d1c034623ef76"
   },
   {
     "url": "6-item-types.php",
-    "revision": "e4fc432f4734f00a48e6adc2cb03dd56"
+    "revision": "1b2ac3d1762ddc17877b33ac17e6f20a"
   },
   {
     "url": "7-introduction-to-build-plates.php",
-    "revision": "6c222b6b4ab7a3733bf72d208111431d"
+    "revision": "0b351cc4d954e34981a5123958584dcf"
   },
   {
     "url": "8-building-with-friends.php",
-    "revision": "3be088be3f471ac0b2d088400e5d8eb9"
+    "revision": "44f6e7a2a77a52050ebe7b6f8a19d8ca"
   },
   {
     "url": "9-place-your-build.php",
-    "revision": "4e6aebaf747aacb1b533f7a91d4300cb"
+    "revision": "33fd4fe445a1742a8c2320e95f6ded60"
   },
   {
     "url": "about.php",
