@@ -1,1 +1,1 @@
-workbox injectManifest workbox-config.js
+workbox generateSW workbox-config.js

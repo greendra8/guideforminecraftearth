@@ -12,7 +12,6 @@
  */
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
-workbox.googleAnalytics.initialize();
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
@@ -164,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "fcc7a6637677b0c275e7e90f15afdbe6"
+    "revision": "63450fc11af53b92316234e8b734a3fc"
   },
   {
     "url": "php/head.php",
