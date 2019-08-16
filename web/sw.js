@@ -95,7 +95,7 @@ self.__precacheManifest = [
   },
   {
     "url": "favicon.ico",
-    "revision": "8f90178ad7f95fa9d7f6abb9ffef2898"
+    "revision": "09b2579732651b5d75dacce5ed243f83"
   },
   {
     "url": "img/backpack.png",
