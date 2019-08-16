@@ -12,6 +12,7 @@
  */
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+workbox.googleAnalytics.initialize();
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
@@ -72,10 +73,6 @@ self.__precacheManifest = [
   {
     "url": "about.php",
     "revision": "b1aae41afef0a34b1038f8e0d3427684"
-  },
-  {
-    "url": "cache-pollyfill.js",
-    "revision": "5a2415672e22d366bda5aa34666acfdb"
   },
   {
     "url": "css/img/bg_bedrock.png",
@@ -171,15 +168,11 @@ self.__precacheManifest = [
   },
   {
     "url": "php/head.php",
-    "revision": "728b3b41b2c49ad0427652202dd34678"
+    "revision": "00c5be1ce9e83c9417d4eec92bf46640"
   },
   {
     "url": "php/header.php",
     "revision": "5e4aab922379a1ffd6a73ba84bb09e26"
-  },
-  {
-    "url": "sw_old.js",
-    "revision": "92a0b1448357090e397458577d56924c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
