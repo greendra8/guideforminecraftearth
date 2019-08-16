@@ -106,8 +106,8 @@ if ('serviceWorker' in navigator) {
                     let timerInterval
                         Swal.fire({
                           title: 'Update Downloaded!',
-                          html: 'Please restart the app to see updates! Closes in <strong></strong> milliseconds.',
-                          timer: 10000,
+                          html: 'Restart app to see changes. Closes in <strong></strong> milliseconds.',
+                          timer: 6000,
                           onBeforeOpen: () => {
                             Swal.showLoading()
                             timerInterval = setInterval(() => {
