@@ -83,7 +83,7 @@
 
         /* minecraft button */
 
-        button{
+        .mc{
             z-index: -1;
             display: block;
             margin-left: 20px;
@@ -99,11 +99,11 @@
             margin-bottom: 15px;
         }
 
-        button:hover{
+        .mc:hover{
           cursor: pointer;
         }
 
-        button:after, button:before{
+        .mc:after, .mc:before{
           display: block;
           content: "";
           position: absolute;
@@ -114,13 +114,14 @@
           background: url('data:image/svg+xml;base64, PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNHB4IiBoZWlnaHQ9IjRweCIgdmlld2JveD0iMCAwIDRweCA0cHgiIHg9IjBweCIgeT0iMHB4Ij48cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJyZ2IoMzcsIDE3NiwgNykiIC8+PC9zdmc+') top left no-repeat, url('data:image/svg+xml;base64, PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNHB4IiBoZWlnaHQ9IjRweCIgdmlld2JveD0iMCAwIDRweCA0cHgiIHg9IjBweCIgeT0iMHB4Ij48cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJyZ2IoMTQxLCAyNTMsIDkyKSIgLz48L3N2Zz4=') top right no-repeat, url('data:image/svg+xml;base64, PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNHB4IiBoZWlnaHQ9IjRweCIgdmlld2JveD0iMCAwIDRweCA0cHgiIHg9IjBweCIgeT0iMHB4Ij48cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJyZ2IoMTgsIDg4LCAzKSIgLz48L3N2Zz4=') bottom left no-repeat, url('data:image/svg+xml;base64, PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNHB4IiBoZWlnaHQ9IjRweCIgdmlld2JveD0iMCAwIDRweCA0cHgiIHg9IjBweCIgeT0iMHB4Ij48cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJyZ2IoMzYsIDE4MCwgNikiIC8+PC9zdmc+') bottom right no-repeat;
         }
 
-        button:before{
+        .mc:before{
           background: none;
           border-top: 4px solid #64fd1f;
           border-bottom: 4px solid #1e8c03;
           border-left: 4px solid #156c00;
           border-right: 4px solid #47d009;
           box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.15);
+        }
         }
     </style>
 
@@ -146,7 +147,7 @@
             <p>Please connect to the internet or turn on your mobile data to update the app.</p>
             <p>You may turn your internet back off afterwards.</p>
             </div>
-            <a href="https://minecraftearthguide.herokuapp.com/"><button>update now!</button></a>
+            <a href="https://minecraftearthguide.herokuapp.com/"><button class="mc">update now!</button></a>
         </div>
     </div>
     </div>

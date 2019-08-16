@@ -91,11 +91,11 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "3be9f56f735ad2a660c3cceefa148bdc"
+    "revision": "519dbfd6c88cba844b9536e66b52791e"
   },
   {
     "url": "error.html",
-    "revision": "046413c835e47a147eadb95fb99994d7"
+    "revision": "3d944b80765b030e722f2d8dd62f0029"
   },
   {
     "url": "favicon.ico",
@@ -167,11 +167,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "002a2652dbc5e6fa4d5f43650e78e333"
+    "revision": "a5d2c0e1bdc085f70dec2aa6e31590c1"
   },
   {
     "url": "php/head.php",
-    "revision": "9c1caa4ff7aa1d3bab3f3d7d0cd246bf"
+    "revision": "0c193c922f6cbb7f7e01fa4e8421e61d"
   },
   {
     "url": "php/header.php",
