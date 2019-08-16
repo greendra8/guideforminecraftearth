@@ -115,7 +115,7 @@ if ('serviceWorker' in navigator) {
           };
         };
       }).catch(function(e) {
-        console.error('Error during service worker registration:', e);
+        console.error('Error during service worker registration: ', e);
       });
     }
 </script>
