@@ -76,10 +76,10 @@
         
         <div style="background: rgba(0, 0, 0, 0.3);" class="list-item">
             <img style="max-width: 100px; max-height: 100px;" class="list-item-image" src="/img/clock.png">
-            <h3 class="list-item-title">New guides coming soon!!</h3>
+            <h3 class="list-item-title">New guides coming soon!</h3>
             <p class="list-item-description">As we learn more about Minecraft Earth, more guides will be published and updated! The game is still new and lacks many of its final features.</p>
         </div>
-        <button value="Refresh Page" onClick="window.location.href=window.location.href">H</button>
+        <button value="Refresh Page" onClick="window.location.href=window.location.href">Hi </button>
         
             <a style="padding: 5px 40px;" class="back-button" href="about.php">About</a>
     </div>
