@@ -19,7 +19,7 @@
             <div class="list-item-description">
             <p>Once you've received your email invite for the beta, you can go ahead and follow the instructions in the email to download the game.</p>
             <p>Make sure to check that your device is supported! It needs to be running Android Version 7+ or IOS 10, and also have AR capabilities.</p>
-            <p>If your device can run Pokemon GO, then you'll be able to play Minecraft Earth too.</p>
+            <p>If your device shows a compatability error on the Minecraft Earth playstore page, your device cannot run Minecraft Earth.</p>
             </div>
             
         </div>

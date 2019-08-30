@@ -35,7 +35,7 @@ self.__precacheManifest = [
   },
   {
     "url": "2-getting-started.php",
-    "revision": "2b38b6398705cc62023028e928772ad8"
+    "revision": "87b5b0ced7018dc339c1f2a4bd01dec7"
   },
   {
     "url": "3-welcome-to-minecraft-earth.php",
