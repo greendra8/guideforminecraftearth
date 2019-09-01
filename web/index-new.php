@@ -4,9 +4,11 @@
     <div class="wrapper">
     <?php include "php/header.php"; ?>
     <div class="content">
-        <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/crafting-table.png">
-            <h3 class="index-item-title">Introduction to Minecraft Earth</h3>
+        <div class="list-item">
+            <img class="list-item-image" src="/img/crafting-table.png">
+            <h3 class="list-item-title">Introduction to Minecraft Earth</h3>
+            <p class="list-item-description">Learn the basics about Minecraft Earth. New players should start here.</p>
+            <a href="/1-start-here.php"><button class="mc">start here!</button></a>
         </div>
         
         <div class="index-item clearfix">
@@ -56,16 +58,16 @@
         
         <div class="clearfix"></div>        
         <div style="background: rgba(0, 0, 0, 0.3);" class="list-item">
-            <img style="max-width: 100px; max-height: 100px;" class="index-item-image" src="/img/clock.png">
-            <h3 class="index-item-title">New guides coming soon!</h3>
-            <p class="index-item-description">As we learn more about Minecraft Earth, more guides will be published and updated! The game is still new and lacks many of its final features.</p>
+            <img style="max-width: 100px; max-height: 100px;" class="list-item-image" src="/img/clock.png">
+            <h3 class="list-item-title">New guides coming soon!</h3>
+            <p class="list-item-description">As we learn more about Minecraft Earth, more guides will be published and updated! The game is still new and lacks many of its final features.</p>
         </div>
             <a style="padding: 5px 40px;" class="back-button" href="about.php">About</a>
     </div>
     <footer> </footer>
     </div>
 </body>
-<!--<script>
+<script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js').then(function(reg) {
@@ -122,5 +124,5 @@ if ('serviceWorker' in navigator) {
         console.error('Error during service worker registration: ', e);
       });
     }
-</script>-->
+</script>
 </html>
