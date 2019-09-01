@@ -87,7 +87,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "519dbfd6c88cba844b9536e66b52791e"
+    "revision": "0196df020975bf01a69f5038135f7db1"
   },
   {
     "url": "error.html",
@@ -139,7 +139,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/item-types.png",
-    "revision": "31453cb39e7132f27a3d6f418b54935c"
+    "revision": "b6a084e50737451ffda7e233b393f8e6"
   },
   {
     "url": "img/mcearth.png",
@@ -147,7 +147,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/muddy-pig.png",
-    "revision": "a1eb60c22f631efbb8a94d796f5bf0c0"
+    "revision": "18325e83c91ed736b7b5d68176ecc33a"
   },
   {
     "url": "img/stone-tappable.png",
@@ -162,8 +162,12 @@ self.__precacheManifest = [
     "revision": "0d9421a9f5bdb79cdfce51d04bab82a1"
   },
   {
+    "url": "index-new.php",
+    "revision": "4714fab677e4e7cc49a54ac2be9e803f"
+  },
+  {
     "url": "index.php",
-    "revision": "166738bf3b90d71ebccf3ba26f15b7b2"
+    "revision": "4714fab677e4e7cc49a54ac2be9e803f"
   },
   {
     "url": "php/head.php",
