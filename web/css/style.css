@@ -39,16 +39,12 @@ footer {
 
 /* texts, fonts and images */
 .index-item {
-    min-height: 40%;
+    min-height: 250px;
     width: 50%;
     float: right;
-    border: 1px solid #848484;
-    border-top: none;
-    box-sizing: border-box;
 }
 .index-item:nth-child(2n-1) {
     float: left;
-    border-right: none;
 }
 
 
@@ -56,8 +52,7 @@ footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
-    height: 120px;
+    padding: 10px 20px;
     max-height: 120px;
     max-width: calc(100% - 40px);
     filter: drop-shadow(2px 2px 45px #000);
@@ -65,7 +60,7 @@ footer {
 
 .index-item-title {
     padding: 0 5px;
-    font-size: 1.8em;
+    font-size: 1em;
     font-weight: 800;
     line-height: 1.2em;
     text-shadow: 3px 2px 2px rgba(0,0,0,0.3);
