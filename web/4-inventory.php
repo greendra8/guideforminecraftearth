@@ -6,7 +6,7 @@
     <div class="content">
         <div class="list-item">
             <h1 class="article-title">Your character and inventory</h1>
-            <img class="list-item-image" src="/img/backpack.png">
+            <img class="list-item-image" src="/img/inventory.png">
             <h3 class="list-item-title">All about your inventory</h3>
             <div class="list-item-description">
             <p>Your inventory is where you store all your blocks, just like in regular Minecraft. However, in Minecraft Earth, the mobs you collect will be stored here too! You also have an unlimited amount of inventory space, so don't worry about having too many items!</p>

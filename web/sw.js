@@ -43,11 +43,11 @@ self.__precacheManifest = [
   },
   {
     "url": "4-inventory.php",
-    "revision": "110869614b3374a29718ed32629a8224"
+    "revision": "32a507146bb6c798a05bbde75b9c4c41"
   },
   {
     "url": "5-tappables.php",
-    "revision": "4adf82a8d56ef46872fa1ec7e96f46e1"
+    "revision": "9cf30cfc94c427e38a51f01496e8e4b8"
   },
   {
     "url": "5.1-tappable-types.php",
@@ -110,12 +110,20 @@ self.__precacheManifest = [
     "revision": "866001d57e7476d85687f0dbaf682075"
   },
   {
+    "url": "img/challenges.png",
+    "revision": "17a85e994a6b839f8aff9c84df53a275"
+  },
+  {
     "url": "img/chest.png",
     "revision": "2e86bd05997b9dcebd6c41a175ad5ced"
   },
   {
     "url": "img/clock.png",
     "revision": "3f42c8eaaa307f2a603b5ac4003d292a"
+  },
+  {
+    "url": "img/crafting-smelting.png",
+    "revision": "c0b146a8977c6b5bde78dc815d5899cb"
   },
   {
     "url": "img/crafting-table.png",
@@ -138,8 +146,12 @@ self.__precacheManifest = [
     "revision": "02bee737cd8345e59c42edfc7c45d801"
   },
   {
+    "url": "img/inventory.png",
+    "revision": "697792f5a1d4f3c226da35399b976384"
+  },
+  {
     "url": "img/item-types.png",
-    "revision": "b6a084e50737451ffda7e233b393f8e6"
+    "revision": "d220aef7d28b5a0697d2721b9a06f5b4"
   },
   {
     "url": "img/mcearth.png",
@@ -147,11 +159,27 @@ self.__precacheManifest = [
   },
   {
     "url": "img/muddy-pig.png",
-    "revision": "18325e83c91ed736b7b5d68176ecc33a"
+    "revision": "4a55edc60bd9ce6e2dbfcb6e46affced"
+  },
+  {
+    "url": "img/ruby.png",
+    "revision": "c9928cd9870b153a6eca6ea39216ce6c"
+  },
+  {
+    "url": "img/sign.png",
+    "revision": "c1df7236cba4543d008f43127e7acaad"
   },
   {
     "url": "img/stone-tappable.png",
     "revision": "4f1ceb05dec581e5709fd5974671c83e"
+  },
+  {
+    "url": "img/store.png",
+    "revision": "9e68b1a144825b391d5ef41a9d79834a"
+  },
+  {
+    "url": "img/switches.png",
+    "revision": "fd52ae10358db6d7d17c30c643871f3e"
   },
   {
     "url": "img/tree-tappable.png",
@@ -162,12 +190,8 @@ self.__precacheManifest = [
     "revision": "0d9421a9f5bdb79cdfce51d04bab82a1"
   },
   {
-    "url": "index-new.php",
-    "revision": "4714fab677e4e7cc49a54ac2be9e803f"
-  },
-  {
     "url": "index.php",
-    "revision": "4714fab677e4e7cc49a54ac2be9e803f"
+    "revision": "0dfd65b5bfa694b7f9844b965b9eb0b2"
   },
   {
     "url": "php/head.php",

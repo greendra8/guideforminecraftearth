@@ -17,21 +17,23 @@
             <h3 class="index-item-title">Getting started</h3>
         </div></a>
         
+<!--
         <a href="3-welcome-to-minecraft-earth.php">
         <div class="index-item clearfix">
             <img class="index-item-image" src="/img/muddy-pig.png">
             <h3 class="index-item-title">Welcome to MC Earth</h3>
         </div></a>
+-->
         
         <a href="4-inventory.php">
         <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/backpack.png">
+            <img class="index-item-image" src="/img/inventory.png">
             <h3 class="index-item-title">Inventory</h3>
         </div></a>
         
         <a href="5-tappables.php">
         <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/chest.png">
+            <img class="index-item-image" src="/img/grass-tappable.png">
             <h3 class="index-item-title">Tappables</h3>
         </div></a>
         
@@ -55,7 +57,7 @@
         
         <a href="9-place-your-build.php">
         <div class="index-item">
-            <img class="index-item-image" src="/img/beacon.png">
+            <img class="index-item-image" src="/img/switches.png">
             <h3 class="index-item-title">Play mode</h3>
         </div></a>
         

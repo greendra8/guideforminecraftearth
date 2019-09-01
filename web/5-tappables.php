@@ -6,7 +6,7 @@
         <div class="content">
         <div class="list-item">
             <h1 class="article-title">What are tappables?</h1>
-            <img class="list-item-image" src="/img/chest.png">
+            <img class="list-item-image" src="/img/grass-tappable.png">
             <h3 class="list-item-title">Introducing tappables</h3>
             <div class="list-item-description">
             <p>The most important item in Minecraft Earth are tappables. Tappables are your best friend when it comes to collecting new items.</p>
