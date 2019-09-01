@@ -134,8 +134,12 @@ self.__precacheManifest = [
     "revision": "ecb55a3dfe5385e352c84b4bef4643dc"
   },
   {
-    "url": "img/door.png",
+    "url": "img/door_old.png",
     "revision": "cece1d73c1b26bea6940dfa4ca1bfc50"
+  },
+  {
+    "url": "img/door.png",
+    "revision": "cd0b98184ed54b4dec8f071ff5f6832b"
   },
   {
     "url": "img/friends.png",
