@@ -24,6 +24,6 @@
     <footer> 
     </footer>
     </div>
-    <a class="next-button" href="10-adventures.php">Next</a>
+    <a class="next-button" href="10-rubies.php">Next</a>
 </body>
 </html>

@@ -75,7 +75,7 @@ self.__precacheManifest = [
   },
   {
     "url": "9-multiplayer.php",
-    "revision": "1729916671c44ff2931f342f9097355e"
+    "revision": "5fd55e4952e277395228a94fef738a85"
   },
   {
     "url": "about.php",
