@@ -30,7 +30,11 @@ self.__precacheManifest = [
     "revision": "b6aa27cc24bc4ed87b2968418e0b2ab2"
   },
   {
-    "url": "10-adventures.php",
+    "url": "10-rubies.php",
+    "revision": "b758f4f554e092ee27ccd0cb4027a1e5"
+  },
+  {
+    "url": "11-adventures.php",
     "revision": "0fd82e2f6b369d424d94fd033de42fef"
   },
   {
@@ -39,7 +43,11 @@ self.__precacheManifest = [
   },
   {
     "url": "3-welcome-to-minecraft-earth.php",
-    "revision": "4d961e06728fa2e4cf21881e31dd6a8c"
+    "revision": "ad79f5fcd7e927537bbb789d09a912e3"
+  },
+  {
+    "url": "3.1-profile.php",
+    "revision": "9b0d37def4d0611c48a0ffca74c4af97"
   },
   {
     "url": "4-inventory.php",
@@ -59,15 +67,15 @@ self.__precacheManifest = [
   },
   {
     "url": "7-introduction-to-build-plates.php",
-    "revision": "0b351cc4d954e34981a5123958584dcf"
+    "revision": "fb4fd866500e9699deeaa395e92cf880"
   },
   {
-    "url": "8-building-with-friends.php",
-    "revision": "44f6e7a2a77a52050ebe7b6f8a19d8ca"
+    "url": "8-build-modes.php",
+    "revision": "9a74f942380076b1e55082da091e1a06"
   },
   {
-    "url": "9-place-your-build.php",
-    "revision": "33fd4fe445a1742a8c2320e95f6ded60"
+    "url": "9-multiplayer.php",
+    "revision": "1729916671c44ff2931f342f9097355e"
   },
   {
     "url": "about.php",
@@ -87,7 +95,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "4d5d08f30abbd0b3bbbb06ed4f78188a"
+    "revision": "64b29105556c4b4a90562913950564e8"
   },
   {
     "url": "error.html",
@@ -106,16 +114,20 @@ self.__precacheManifest = [
     "revision": "cfe9a08966e6b28fafeed178b290f7f5"
   },
   {
+    "url": "img/build-button.png",
+    "revision": "ed718921e33d601435396ae9cebab365"
+  },
+  {
     "url": "img/build-plate.png",
-    "revision": "866001d57e7476d85687f0dbaf682075"
+    "revision": "9412e3345641bb6c09163a0676c2f3e2"
   },
   {
     "url": "img/challenges.png",
-    "revision": "17a85e994a6b839f8aff9c84df53a275"
+    "revision": "8a5ad5b70c5fc2468e7e1b358e4accc2"
   },
   {
     "url": "img/chest.png",
-    "revision": "2e86bd05997b9dcebd6c41a175ad5ced"
+    "revision": "5caf96d053964b5d9b180486e14c48c7"
   },
   {
     "url": "img/clock.png",
@@ -123,7 +135,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/crafting-smelting.png",
-    "revision": "c0b146a8977c6b5bde78dc815d5899cb"
+    "revision": "63dbef09927673eafacf41b59aec04ab"
   },
   {
     "url": "img/crafting-table.png",
@@ -143,7 +155,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/friends.png",
-    "revision": "6ccd730cfe0214527d722adf8316886a"
+    "revision": "c87debb44116552f87203358bd6c87e4"
   },
   {
     "url": "img/grass-tappable.png",
@@ -151,11 +163,11 @@ self.__precacheManifest = [
   },
   {
     "url": "img/inventory.png",
-    "revision": "697792f5a1d4f3c226da35399b976384"
+    "revision": "4f239a75dc1ae8fef646f1d1fe4f7b41"
   },
   {
     "url": "img/item-types.png",
-    "revision": "d220aef7d28b5a0697d2721b9a06f5b4"
+    "revision": "79bd493e3f76e9dfbc51bdf3aaa600aa"
   },
   {
     "url": "img/mcearth.png",
@@ -163,15 +175,27 @@ self.__precacheManifest = [
   },
   {
     "url": "img/muddy-pig.png",
-    "revision": "4a55edc60bd9ce6e2dbfcb6e46affced"
+    "revision": "8092b5a6fa614a0fe58b13b41789147c"
+  },
+  {
+    "url": "img/play-mode-button.png",
+    "revision": "b3ec32b62813d8f374633545777298bc"
+  },
+  {
+    "url": "img/profile-icon.png",
+    "revision": "5b23efe395068e0b26623e824f37fe98"
   },
   {
     "url": "img/ruby.png",
-    "revision": "c9928cd9870b153a6eca6ea39216ce6c"
+    "revision": "01adc859a21f9c7a0410681870b25cf4"
   },
   {
     "url": "img/sign.png",
-    "revision": "c1df7236cba4543d008f43127e7acaad"
+    "revision": "6cc7fee029c05eaf269c1f47b10bb65c"
+  },
+  {
+    "url": "img/skins.png",
+    "revision": "e8b5aed3933d67208f628273f01b647f"
   },
   {
     "url": "img/stone-tappable.png",
@@ -179,11 +203,11 @@ self.__precacheManifest = [
   },
   {
     "url": "img/store.png",
-    "revision": "9e68b1a144825b391d5ef41a9d79834a"
+    "revision": "780007fad700730038722369eb0a448b"
   },
   {
     "url": "img/switches.png",
-    "revision": "fd52ae10358db6d7d17c30c643871f3e"
+    "revision": "1dab7535e2d3c9df3a891dc748cc457a"
   },
   {
     "url": "img/tree-tappable.png",
@@ -195,7 +219,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "0dfd65b5bfa694b7f9844b965b9eb0b2"
+    "revision": "016d69bc3667444f65228b5cdc9c9a4d"
   },
   {
     "url": "php/head.php",

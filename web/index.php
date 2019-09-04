@@ -11,19 +11,12 @@
             <a href="/1-start-here.php"><button class="mc">start here!</button></a>
         </div>
         <br>
-        <a href="2-getting-started.php">
-        <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/door.png">
-            <h3 class="index-item-title">Getting started</h3>
-        </div></a>
         
-<!--
-        <a href="3-welcome-to-minecraft-earth.php">
+        <a href="3.1-profile.php">
         <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/muddy-pig.png">
-            <h3 class="index-item-title">Welcome to MC Earth</h3>
+            <img class="index-item-image" src="/img/skins.png">
+            <h3 class="index-item-title">Profile &amp; Skins</h3>
         </div></a>
--->
         
         <a href="4-inventory.php">
         <div class="index-item clearfix">
@@ -40,7 +33,7 @@
         <a href="6-item-types.php">
         <div class="index-item clearfix">
             <img class="index-item-image" src="/img/item-types.png">
-            <h3 class="index-item-title">Types of item</h3>
+            <h3 class="index-item-title">Item rarities</h3>
         </div></a>
         
         <a href="7-introduction-to-build-plates.php">
@@ -49,19 +42,25 @@
             <h3 class="index-item-title">Build plates</h3>
         </div></a>
         
-        <a href="8-building-with-friends.php">
+        <a href="8-build-modes.php">
+        <div class="index-item">
+            <img class="index-item-image" src="/img/switches.png">
+            <h3 class="index-item-title">Build modes</h3>
+        </div></a>
+        
+        <a href="9-multiplayer.php">
         <div class="index-item">
             <img class="index-item-image" src="/img/friends.png">
             <h3 class="index-item-title">Multiplayer</h3>
         </div></a>
         
-        <a href="9-place-your-build.php">
+        <a href="10-rubies.php">
         <div class="index-item">
-            <img class="index-item-image" src="/img/switches.png">
-            <h3 class="index-item-title">Play mode</h3>
+                <img class="index-item-image" src="/img/ruby.png">
+                <h3 class="index-item-title">Rubies &amp; Store</h3>
         </div></a>
         
-        <a href="10-adventures.php">
+        <a href="11-adventures.php">
         <div class="index-item">
                 <img class="index-item-image" src="/img/diamond_pickaxe.png">
                 <h3 class="index-item-title">Adventures</h3>

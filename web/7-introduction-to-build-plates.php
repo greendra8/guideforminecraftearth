@@ -24,6 +24,6 @@
     <footer> 
     </footer>
     </div>
-    <a class="next-button" href="8-building-with-friends.php">Next</a>
+    <a class="next-button" href="8-build-modes.php">Next</a>
 </body>
 </html>

@@ -93,6 +93,12 @@ footer {
     filter: drop-shadow(2px 2px 45px #000);
 }
 
+.in-article {
+    padding-top: 5px;
+    padding-bottom: -5px;
+    margin-top: -20px;
+}
+
 .list-item-title {
     padding: 5px 20px 15px 20px;
     font-size: 1.6em;

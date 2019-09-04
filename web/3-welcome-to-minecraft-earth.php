@@ -20,6 +20,6 @@
     <footer> 
     </footer>
     </div>
-    <a class="next-button" href="4-inventory.php">Next</a>
+    <a class="next-button" href="3.1-profile.php">Next</a>
 </body>
 </html>
