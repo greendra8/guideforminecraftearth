@@ -216,8 +216,9 @@ b {
     text-shadow: 0 2px 0 rgba(0,0,0,0.3);
     box-shadow: rgba(0, 0, 0, 0.30) 2px 2px 2px;
 }
-
-
+option, .goog-te-combo {
+    color: black;
+}
 ul {
     padding-bottom: 15px;
 }
