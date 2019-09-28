@@ -26,4 +26,4 @@
     </div>
     <a class="next-button" href="5.1-tappable-types.php">Next</a>
 </body>
-</html>
+<html> 

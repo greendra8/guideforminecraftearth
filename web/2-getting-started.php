@@ -29,4 +29,4 @@
     </div>
     <a class="next-button" href="3-welcome-to-minecraft-earth.php">Next</a>
 </body>
-</html>
+<html> 

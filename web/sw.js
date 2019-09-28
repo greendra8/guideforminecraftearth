@@ -27,59 +27,59 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "1-start-here.php",
-    "revision": "b6aa27cc24bc4ed87b2968418e0b2ab2"
+    "revision": "355a8d343a3533cfbdc0e1d256819d48"
   },
   {
     "url": "10-rubies.php",
-    "revision": "b758f4f554e092ee27ccd0cb4027a1e5"
+    "revision": "269c0daabcd8248f6d8635b2be260010"
   },
   {
     "url": "11-adventures.php",
-    "revision": "0fd82e2f6b369d424d94fd033de42fef"
+    "revision": "2666f44ba1aa77dc06b2280f1da69e79"
   },
   {
     "url": "2-getting-started.php",
-    "revision": "87b5b0ced7018dc339c1f2a4bd01dec7"
+    "revision": "bf13cbdd95ba209aa6b16e593d482cbb"
   },
   {
     "url": "3-welcome-to-minecraft-earth.php",
-    "revision": "ad79f5fcd7e927537bbb789d09a912e3"
+    "revision": "88424cca6cc9dfc03ecd7e2a9f93f80f"
   },
   {
     "url": "3.1-profile.php",
-    "revision": "9b0d37def4d0611c48a0ffca74c4af97"
+    "revision": "e042a0f7ce61ece6d2c58c10a51648fe"
   },
   {
     "url": "4-inventory.php",
-    "revision": "32a507146bb6c798a05bbde75b9c4c41"
+    "revision": "720c2230c7d483efbe94cdf6f6c96878"
   },
   {
     "url": "5-tappables.php",
-    "revision": "9cf30cfc94c427e38a51f01496e8e4b8"
+    "revision": "a41ac944589fff218ab5fb8e6d5840b9"
   },
   {
     "url": "5.1-tappable-types.php",
-    "revision": "7183b7e44cd381760b8d1c034623ef76"
+    "revision": "a241336110e39f3a7347d3d40df7508a"
   },
   {
     "url": "6-item-types.php",
-    "revision": "1b2ac3d1762ddc17877b33ac17e6f20a"
+    "revision": "152785c799f04c45fce901aa44032457"
   },
   {
     "url": "7-introduction-to-build-plates.php",
-    "revision": "fb4fd866500e9699deeaa395e92cf880"
+    "revision": "ae8f9458d59af36f37dcf666d77471b2"
   },
   {
     "url": "8-build-modes.php",
-    "revision": "9a74f942380076b1e55082da091e1a06"
+    "revision": "93550e9a33e6d27ac7519f0ca7e16023"
   },
   {
     "url": "9-multiplayer.php",
-    "revision": "5fd55e4952e277395228a94fef738a85"
+    "revision": "fa52bc4062e345d21bfbe8aa1b1fb63a"
   },
   {
     "url": "about.php",
-    "revision": "b1aae41afef0a34b1038f8e0d3427684"
+    "revision": "a838e38eab1b1489c4a5f2f8056f887e"
   },
   {
     "url": "css/img/bg_bedrock.png",
@@ -219,7 +219,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "67fd826e3cd12a325db7116ce27dcc2d"
+    "revision": "05ab24b5247c24f25a0e2327d7d1f2cd"
   },
   {
     "url": "php/head.php",

@@ -30,4 +30,4 @@
     </div>
     <a class="next-button" href="7-introduction-to-build-plates.php">Next</a>
 </body>
-</html>
+<html> 

@@ -26,4 +26,4 @@
     </div>
     <a class="next-button" href="8-build-modes.php">Next</a>
 </body>
-</html>
+<html> 

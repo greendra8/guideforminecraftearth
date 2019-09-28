@@ -22,4 +22,4 @@
     </div>
     <a class="next-button" href="3.1-profile.php">Next</a>
 </body>
-</html>
+<html> 

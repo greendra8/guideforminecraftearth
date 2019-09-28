@@ -32,4 +32,4 @@
     </div>
     <a class="next-button" href="2-getting-started.php">Next</a>
 </body>
-</html>
+<html> 

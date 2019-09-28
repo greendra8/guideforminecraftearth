@@ -25,4 +25,4 @@
     </div>
     <a class="next-button" href="11-adventures.php">Next</a>
 </body>
-</html>
+<html> 

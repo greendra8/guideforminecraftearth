@@ -25,4 +25,4 @@
     </div>
     <a class="next-button" href="/index.php">Next</a>
 </body>
-</html>
+<html> 

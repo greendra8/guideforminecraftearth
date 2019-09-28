@@ -26,4 +26,4 @@
     </div>
     <a class="next-button" href="6-item-types.php">Next</a>
 </body>
-</html>
+<html> 

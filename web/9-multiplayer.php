@@ -26,4 +26,4 @@
     </div>
     <a class="next-button" href="10-rubies.php">Next</a>
 </body>
-</html>
+<html> 

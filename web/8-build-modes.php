@@ -34,4 +34,4 @@
     </div>
     <a class="next-button" href="9-multiplayer.php">Next</a>
 </body>
-</html>
+<html> 

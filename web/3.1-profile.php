@@ -37,4 +37,4 @@
     </div>
     <a class="next-button" href="4-inventory.php">Next</a>
 </body>
-</html>
+<html> 
