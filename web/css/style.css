@@ -4,6 +4,7 @@
   color: white;
   font-family: sans-serif;
   max-width: 100vw;
+  overflow-x: hidden;
 }
 
 .clearfix::after {
