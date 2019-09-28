@@ -24,7 +24,7 @@
             <h3 class="list-item-title">When will Minecraft Earth release?</h3>
             <div class="list-item-description">
             <p>Minecraft Earth will release publicly in October for both Android and IOS devices! This release date was announced live at Minecon on the 28th of August.</p>
-            <p>Once Minecraft Earth releases, you will be able to install it directly from either the Google Playstore or the App Appstore. And best of all, it's free to play!</p>
+            <p>Once Minecraft Earth releases, you will be able to install it directly from either the Google Playstore or the Apple Appstore. And best of all, it's free to play!</p>
             <div class="tip">
                 <h4>PRO TIP!</h4>
                 <p>Click the big green 'Next' button below to continue!</p>

@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "1-start-here.php",
-    "revision": "a09eb0e3887bbd9cb74e59341e4b6660"
+    "revision": "4553d4274045d038bf340ebda723a306"
   },
   {
     "url": "10-rubies.php",
