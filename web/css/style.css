@@ -15,9 +15,6 @@
 /* content sections */
 body {
     background: #111 url(img/bg_main.png);
-    overflow-x: hidden;
-
-
 }
 .wrapper {
     position: relative;
