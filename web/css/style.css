@@ -38,7 +38,7 @@ footer {
 /* texts, fonts and images */
 .index-item {
     min-height: 200px;
-    width: 33.33%;
+    width: 50%;
     float: right;
 }
 .index-item:nth-child(2n-1) {
@@ -58,7 +58,7 @@ footer {
 
 .index-item-title {
     padding: 0 5px;
-    font-size: 1em;
+    font-size: 0.9em;
     font-weight: 800;
     line-height: 1.2em;
     text-shadow: 3px 2px 2px rgba(0,0,0,0.3);

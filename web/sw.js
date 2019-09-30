@@ -35,7 +35,7 @@ self.__precacheManifest = [
   },
   {
     "url": "11-adventures.php",
-    "revision": "2666f44ba1aa77dc06b2280f1da69e79"
+    "revision": "ad1466ce2eba6bce4e195e0d0d182711"
   },
   {
     "url": "2-getting-started.php",
@@ -95,7 +95,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "586faa4f0d25d50cd2880829f2eb8315"
+    "revision": "6d95ffa78716381729a32845b5639bb4"
   },
   {
     "url": "error.html",
@@ -219,7 +219,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "05ab24b5247c24f25a0e2327d7d1f2cd"
+    "revision": "a2b4ee4496bf80450b5336683a330ef3"
   },
   {
     "url": "php/head.php",
