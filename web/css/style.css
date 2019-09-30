@@ -38,7 +38,7 @@ footer {
 /* texts, fonts and images */
 .index-item {
     min-height: 200px;
-    width: 50%;
+    width: 33.33%;
     float: right;
 }
 .index-item:nth-child(2n-1) {
