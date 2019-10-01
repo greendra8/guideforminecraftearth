@@ -4,7 +4,7 @@
     <div class="wrapper">
     <?php include "php/header.php"; ?>
     <div class="content">
-       <div style="text-align: center; background:#101010" class="translate" id="google_translate_element"></div>
+       <div style="text-align: center; background:#0c0c0c" class="translate" id="google_translate_element"></div>
         <div class="list-item">
             <img class="list-item-image" src="/img/crafting-table.png">
             <h3 class="list-item-title">Introduction to Minecraft Earth</h3>
