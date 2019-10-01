@@ -219,7 +219,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "4eab77002fa1e5b34a74909b81f69a17"
+    "revision": "5c863fdcf12a2387123d2316c419a7b9"
   },
   {
     "url": "php/head.php",
