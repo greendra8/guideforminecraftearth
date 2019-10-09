@@ -95,7 +95,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "d0ece93a610e5dacb9bbb6dab1775a36"
+    "revision": "42cb158ea4ffcfa744b0976dddc6a0c2"
   },
   {
     "url": "error.html",
@@ -219,7 +219,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "32edaffd442a59cd6c854ad65b50739e"
+    "revision": "095d677ac9e3ca411d8573ad268b96ee"
   },
   {
     "url": "php/head.php",
