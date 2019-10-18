@@ -27,59 +27,59 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "1-start-here.php",
-    "revision": "4553d4274045d038bf340ebda723a306"
+    "revision": "0d70826437d676c001f030be7fb4014c"
   },
   {
     "url": "10-rubies.php",
-    "revision": "269c0daabcd8248f6d8635b2be260010"
+    "revision": "fe74779abe9242df10e0908d5642e46f"
   },
   {
     "url": "11-adventures.php",
-    "revision": "ad1466ce2eba6bce4e195e0d0d182711"
+    "revision": "d18294f45341df8662b751771fd49b4a"
   },
   {
     "url": "2-getting-started.php",
-    "revision": "bf13cbdd95ba209aa6b16e593d482cbb"
+    "revision": "a88c66132ddf5d944d39098753fbc0c1"
   },
   {
     "url": "3-welcome-to-minecraft-earth.php",
-    "revision": "88424cca6cc9dfc03ecd7e2a9f93f80f"
+    "revision": "7cf25ec4439bc328a50f98582ccbfd50"
   },
   {
     "url": "3.1-profile.php",
-    "revision": "e042a0f7ce61ece6d2c58c10a51648fe"
+    "revision": "b68eedeb4bdc20e0fa46c3a08661823c"
   },
   {
     "url": "4-inventory.php",
-    "revision": "720c2230c7d483efbe94cdf6f6c96878"
+    "revision": "f52c9636e0b60a63bf4fd16a9028b98b"
   },
   {
     "url": "5-tappables.php",
-    "revision": "a41ac944589fff218ab5fb8e6d5840b9"
+    "revision": "dd129ffd010041a29ac827240838cd6a"
   },
   {
     "url": "5.1-tappable-types.php",
-    "revision": "a241336110e39f3a7347d3d40df7508a"
+    "revision": "c42657b15f131f74d506c0b151da368b"
   },
   {
     "url": "6-item-types.php",
-    "revision": "152785c799f04c45fce901aa44032457"
+    "revision": "0f10e2f55bcf450f919bdf2dff5525a6"
   },
   {
     "url": "7-introduction-to-build-plates.php",
-    "revision": "ae8f9458d59af36f37dcf666d77471b2"
+    "revision": "70b25ed6616c2db8b153c76e11b348bc"
   },
   {
     "url": "8-build-modes.php",
-    "revision": "93550e9a33e6d27ac7519f0ca7e16023"
+    "revision": "3c84218b81c30dd1bbde1913ebefafdf"
   },
   {
     "url": "9-multiplayer.php",
-    "revision": "fa52bc4062e345d21bfbe8aa1b1fb63a"
+    "revision": "6d31c5956d47924809e0c4a98ebf8153"
   },
   {
     "url": "about.php",
-    "revision": "a838e38eab1b1489c4a5f2f8056f887e"
+    "revision": "52af82b653f90a567277b52a90afcd1d"
   },
   {
     "url": "css/img/bg_bedrock.png",
@@ -279,7 +279,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index_old.php",
-    "revision": "095d677ac9e3ca411d8573ad268b96ee"
+    "revision": "bc9021b7e9339463e5d5f3c30864fad4"
   },
   {
     "url": "index.php",
@@ -290,7 +290,7 @@ self.__precacheManifest = [
     "revision": "17d9cb33da1373a2ad899254000d4710"
   },
   {
-    "url": "php/header.php",
+    "url": "php/header2.php",
     "revision": "8b6d7fbc08cda90b4b580ef3bd6c5175"
   }
 ].concat(self.__precacheManifest || []);

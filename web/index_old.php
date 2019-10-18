@@ -2,7 +2,7 @@
     <?php include "php/head.php"; ?>
 <body style="margin-bottom: 0;">
     <div class="wrapper">
-    <?php include "php/header.php"; ?>
+    <?php include "php/header2.php"; ?>
     <div class="content">
        <div style="text-align: center; background:#171719" class="translate" id="google_translate_element"></div>
         <div class="list-item">
