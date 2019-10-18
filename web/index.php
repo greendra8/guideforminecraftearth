@@ -92,7 +92,7 @@
 <div class="clearfix"></div>
 </body>
 
-<!--
+
 <script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
@@ -150,5 +150,5 @@ if ('serviceWorker' in navigator) {
         console.error('Error during service worker registration: ', e);
       });
     }
-</script> -->
+</script>
 <html> 
