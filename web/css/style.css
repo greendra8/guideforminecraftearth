@@ -14,7 +14,7 @@
 
 /* content sections */
 body {
-    background: url(img/bg.png) #0f0f10;
+    background: url(img/bg.png) rgb(24, 24, 24);;
 }
 .wrapper {
     position: relative;
