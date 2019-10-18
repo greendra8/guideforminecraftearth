@@ -1,7 +1,7 @@
 * {
     margin: 0;
     font-family: 'Minecraft Regular';
-}
+} 
 
 .clearfix::after {
   content: "";
