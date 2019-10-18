@@ -86,9 +86,13 @@
             <h3>Adventures</h3>
         </div>
         </a>
+        <br> <br> <br>
+        <a style="padding: 5px 40px;" class="back-button" href="about.php">About</a>
 </div>
+<div class="clearfix">g</div>
 </body>
 
+<!--
 <script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
@@ -146,5 +150,5 @@ if ('serviceWorker' in navigator) {
         console.error('Error during service worker registration: ', e);
       });
     }
-</script>
+</script> -->
 <html> 
