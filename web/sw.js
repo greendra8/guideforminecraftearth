@@ -90,12 +90,16 @@ self.__precacheManifest = [
     "revision": "0b8147dc876a0857fde9cea978602fca"
   },
   {
+    "url": "css/img/bg.png",
+    "revision": "694905666e633ac6cf2647c407bdf303"
+  },
+  {
     "url": "css/img/logo.png",
     "revision": "3f0862cd2f75aa8028194443485f4034"
   },
   {
     "url": "css/style.css",
-    "revision": "42cb158ea4ffcfa744b0976dddc6a0c2"
+    "revision": "3c65d16894adbed9584b5ec529946051"
   },
   {
     "url": "error.html",
