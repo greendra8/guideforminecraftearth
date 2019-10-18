@@ -89,7 +89,7 @@
         <br> <br> <br>
         <a style="padding: 5px 40px;" class="back-button" href="about.php">About</a>
 </div>
-<div class="clearfix">g</div>
+<div class="clearfix"></div>
 </body>
 
 <!--
