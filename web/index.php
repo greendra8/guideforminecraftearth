@@ -1,84 +1,94 @@
 <html> 
     <?php include "php/head.php"; ?>
-<body style="margin-bottom: 0;">
-    <div class="wrapper">
-    <?php include "php/header.php"; ?>
-    <div class="content">
-       <div style="text-align: center; background:#171719" class="translate" id="google_translate_element"></div>
-        <div class="list-item">
-            <img class="list-item-image" src="/img/crafting-table.png">
-            <h3 class="list-item-title">Introduction to Minecraft Earth</h3>
-            <p class="list-item-description">Learn the basics about Minecraft Earth. New players should start here.</p>
-            <a href="/1-start-here.php"><button class="mc">start here!</button></a>
-        </div>
-        <br>
+<body>
+<header>Guide For Minecraft Earth</header>
+<header class="hidden">Guide For Minecraft Earth</header>
 
-        <a href="3.1-profile.php">
-        <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/skins.png">
-            <h3 class="index-item-title">Profile &amp; Skins</h3>
-        </div></a>
-        
-        <a href="4-inventory.php">
-        <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/inventory.png">
-            <h3 class="index-item-title">Inventory</h3>
-        </div></a>
-        
-        <a href="5-tappables.php">
-        <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/grass-tappable.png">
-            <h3 class="index-item-title">Tappables</h3>
-        </div></a>
-        
-        <a href="6-item-types.php">
-        <div class="index-item clearfix">
-            <img class="index-item-image" src="/img/item-types.png">
-            <h3 class="index-item-title">Item rarities</h3>
-        </div></a>
-        
-        <a href="7-introduction-to-build-plates.php">
-        <div class="index-item">
-            <img class="index-item-image" src="/img/build-plate.png">
-            <h3 class="index-item-title">Build plates</h3>
-        </div></a>
-        
-        <a href="8-build-modes.php">
-        <div class="index-item">
-            <img class="index-item-image" src="/img/switches.png">
-            <h3 class="index-item-title">Build modes</h3>
-        </div></a>
-        
-        <a href="9-multiplayer.php">
-        <div class="index-item">
-            <img class="index-item-image" src="/img/friends.png">
-            <h3 class="index-item-title">Multiplayer</h3>
-        </div></a>
-        
-        <a href="10-rubies.php">
-        <div class="index-item">
-                <img class="index-item-image" src="/img/ruby.png">
-                <h3 class="index-item-title">Rubies &amp; Store</h3>
-        </div></a>
-        
-        <a href="11-adventures.php">
-        <div class="index-item">
-                <img class="index-item-image" src="/img/diamond_pickaxe.png">
-                <h3 class="index-item-title">Adventures</h3>
-        </div></a>
-        
-        <div class="clearfix"></div>        
-        <div style="background: rgba(0, 0, 0, 0.3);" class="list-item">
-            <img style="max-width: 100px; max-height: 100px;" class="list-item-image" src="/img/clock.png">
-            <h3 class="list-item-title">New guides coming soon!</h3>
-            <p class="list-item-description">As we learn more about Minecraft Earth, more guides will be published and updated! The game is still new and lacks many of its final features.</p>
+<div class="wrapper-index">
+   <h1 class="index-title">featured articles</h1>
+       <a href="1-start-here.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/crafting-table.png">
+            <h3>Start Here</h3>
         </div>
-            <a style="padding: 5px 40px;" class="back-button" href="about.php">About</a>
-            
-    </div>
-    <footer> </footer>
-    </div>
+        </a>
+        <a href="3.1-profile.php">
+         <div class="small-article right">
+            <img class="small-image" src="img/thumbs/skins.png">
+            <h3>Profile &amp; Skins</h3>
+        </div>
+        </a>
+    <h1 class="index-title">popular guides</h1>
+       <a href="4-inventory.php">
+        <div class="wide-article">
+            <img class="wide-image" src="img/thumbs/inventory.png">
+            <h3>Inventory</h3>
+        </div>
+        </a>
+        <a href="5-tappables.php">
+        <div class="wide-article">
+            <img class="wide-image" src="img/thumbs/grass-tappable.png">
+            <h3>Tappables</h3>
+        </div>
+        </a>
+    <h1 class="index-title">beginners guides</h1>
+       <a href="3">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/skins.png">
+            <h3>Profile &amp; Skins</h3>
+        </div>
+        </a>
+        <a href="4-inventory.php">
+         <div class="small-article right">
+            <img class="small-image" src="img/thumbs/inventory.png">
+            <h3>Inventory</h3>
+        </div>
+        </a>
+        <a href="5-tappables.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/grass-tappable.png">
+            <h3>Tappables</h3>
+        </div>
+        </a>
+        <a href="6-item-types.php">
+        <div class="small-article right">
+            <img class="small-image" src="img/thumbs/item-types.png">
+            <h3>Item Rarities</h3>
+        </div>
+        </a>
+        <a href="7-introduction-to-build-plates.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/build-plate.png">
+            <h3>Build Plates</h3>
+        </div>
+        </a>
+        <a href="8-build-modes.php">
+        <div class="small-article right">
+            <img class="small-image" src="img/thumbs/switches.png">
+            <h3>Build Modes</h3>
+        </div>
+        </a>
+        <a href="9-multiplayer.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/friends.png">
+            <h3>Multiplayer</h3>
+        </div>
+        </a>
+        <a href="10-rubies.php">
+        <div class="small-article right">
+            <img class="small-image" src="img/thumbs/ruby.png">
+            <h3>Rubies &amp; Store</h3>
+        </div>
+        </a>
+        <a href="11-adventures.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/diamond-pickaxe.png">
+            <h3>Adventures</h3>
+        </div>
+        </a>
+</div>
 </body>
+
 <script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {

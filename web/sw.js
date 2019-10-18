@@ -99,7 +99,11 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "37538baee5510e9fa00cfd08ffd5de58"
+    "revision": "73fe50acc92c4623c3ed340b41345c9f"
+  },
+  {
+    "url": "css/style1.css",
+    "revision": "6fd01edbf0fc0c83daa80732ef2dfb2e"
   },
   {
     "url": "error.html",
@@ -178,6 +182,10 @@ self.__precacheManifest = [
     "revision": "e2d593f578d0e4b60da459bdb4c16062"
   },
   {
+    "url": "img/minecon.png",
+    "revision": "d7d10178bfd81cc55b8c7b94cad60ad3"
+  },
+  {
     "url": "img/muddy-pig.png",
     "revision": "8092b5a6fa614a0fe58b13b41789147c"
   },
@@ -214,6 +222,54 @@ self.__precacheManifest = [
     "revision": "1dab7535e2d3c9df3a891dc748cc457a"
   },
   {
+    "url": "img/test.png",
+    "revision": "14d0494723e783f04ba0e3ae1ad5c66f"
+  },
+  {
+    "url": "img/thumbs/build-plate.png",
+    "revision": "6a1fefb32ce34d8acdeacb3d447738fb"
+  },
+  {
+    "url": "img/thumbs/crafting-table.png",
+    "revision": "c4d1edfa1dbf071c3c63358c3bf9a12e"
+  },
+  {
+    "url": "img/thumbs/diamond-pickaxe.png",
+    "revision": "cd5f97ebdb37c99035b9fb68cdae2868"
+  },
+  {
+    "url": "img/thumbs/friends.png",
+    "revision": "da3af54a77f1cc1e679385fa1d7928dc"
+  },
+  {
+    "url": "img/thumbs/grass-tappable.png",
+    "revision": "67a0e66b467bae9ae1e1756d0a9148fa"
+  },
+  {
+    "url": "img/thumbs/inventory.png",
+    "revision": "5ff6761c357de718bb6d672e0b1059db"
+  },
+  {
+    "url": "img/thumbs/item-types.png",
+    "revision": "53193e95a801786e9f3ffb22c1e4b64f"
+  },
+  {
+    "url": "img/thumbs/ruby.png",
+    "revision": "08ae1e352e91bda9ce22476676a7d416"
+  },
+  {
+    "url": "img/thumbs/skins.png",
+    "revision": "60a178a8241fae5262d7b863782b9bc6"
+  },
+  {
+    "url": "img/thumbs/stone-tappable.png",
+    "revision": "542164b46f213aa9b21df0b56c3e9bd3"
+  },
+  {
+    "url": "img/thumbs/switches.png",
+    "revision": "071447988249f7c7a5c51f7545077ef9"
+  },
+  {
     "url": "img/tree-tappable.png",
     "revision": "67f8dd668a8cae7fa9ca453cd8e4b524"
   },
@@ -222,8 +278,12 @@ self.__precacheManifest = [
     "revision": "0d9421a9f5bdb79cdfce51d04bab82a1"
   },
   {
-    "url": "index.php",
+    "url": "index_old.php",
     "revision": "095d677ac9e3ca411d8573ad268b96ee"
+  },
+  {
+    "url": "index.php",
+    "revision": "c88cb171e39a71fb702a1c06b9cf7c1f"
   },
   {
     "url": "php/head.php",
@@ -231,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "php/header.php",
-    "revision": "5e4aab922379a1ffd6a73ba84bb09e26"
+    "revision": "8b6d7fbc08cda90b4b580ef3bd6c5175"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
