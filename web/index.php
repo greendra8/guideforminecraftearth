@@ -92,7 +92,6 @@
 <div class="clearfix"></div>
 </body>
 
-
 <script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
