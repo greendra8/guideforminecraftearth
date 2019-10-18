@@ -3,49 +3,48 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
-<header>GUIDE FOR Minecraft Earth</header>
-<header class="hidden">GUIDE FOR Minecraft Earth</header>
+<header>Guide For Minecraft Earth</header>
+<header class="hidden">Guide For Minecraft Earth</header>
 
 <div class="wrapper">
-   <h1>featured articles:</h1>
-        <div class="featured-article left">
-            <img class="featured-image" src="img/minecon.png">
+   <h1>featured articles</h1>
+        <div class="small-article left">
+            <img class="small-image" src="img/minecon.png">
             <h3>Introduction to Tappables</h3>
         </div>
-         <div class="featured-article right">
-            <img class="featured-image" src="img/minecon.png">
+         <div class="small-article right">
+            <img class="small-image" src="img/grass-tappable.png">
             <h3>Introduction to Tappables</h3>
         </div>
-        <div class="clearfix"></div>
-        <div style="display:none">
+
     <h1>popular guides</h1>
         <div class="wide-article">
-            <img class="wide-image" src="img/minecon.png">
+            <img class="wide-image" src="img/mcearth.png">
             <h3>Introduction to Tappables</h3>
         </div>
         <div class="wide-article">
             <img class="wide-image" src="img/minecon.png">
             <h3>Introduction to Tappables</h3>
         </div>
-        
-    <h1>beginneres guides</h1>
-        <div class="small-article">
+
+    <h1>beginners guides</h1>
+        <div class="small-article left">
             <img class="small-image" src="img/minecon.png">
             <h3>Introduction to Tappables</h3>
         </div>
-        <div class="small-article">
+         <div class="small-article right">
             <img class="small-image" src="img/minecon.png">
             <h3>Introduction to Tappables</h3>
         </div>
-        <div class="small-article">
+        <div class="small-article left">
             <img class="small-image" src="img/minecon.png">
             <h3>Introduction to Tappables</h3>
         </div>
-        <div class="small-article">
+         <div class="small-article right">
             <img class="small-image" src="img/minecon.png">
             <h3>Introduction to Tappables</h3>
         </div>
-    </div>
+
 </div>
 </body>
 <html> 
