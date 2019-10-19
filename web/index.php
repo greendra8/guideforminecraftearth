@@ -32,7 +32,7 @@
         </div>
         </a>
     <h1 class="index-title">beginners guides</h1>
-       <a href="3">
+       <a href="3-welcome-to-minecraft-earth.php">
         <div class="small-article left">
             <img class="small-image" src="img/thumbs/skins.png">
             <h3>Profile &amp; Skins</h3>
