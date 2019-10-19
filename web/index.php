@@ -3,7 +3,7 @@
 <body>
 <header>Guide For Minecraft Earth</header>
 <header class="hidden">Guide For Minecraft Earth</header>
-
+<div style="text-align: center; background:#171719" class="translate" id="google_translate_element"></div>
 <div class="wrapper-index">
    <h1 class="index-title">featured articles</h1>
        <a href="1-start-here.php">
