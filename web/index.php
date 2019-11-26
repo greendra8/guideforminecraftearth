@@ -81,7 +81,7 @@
         </div>
         </a>
         <a href="11-adventures.php">
-        <div class="small-article left">
+        <div style="margin-bottom: 80px;"class="small-article left">
             <img class="small-image" src="img/thumbs/adventures.png">
             <h3>Adventures</h3>
         </div>
