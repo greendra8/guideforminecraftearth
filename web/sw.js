@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "1-start-here.php",
-    "revision": "0d70826437d676c001f030be7fb4014c"
+    "revision": "b6315c00e3272ab05a552a856f135381"
   },
   {
     "url": "10-rubies.php",
@@ -39,7 +39,7 @@ self.__precacheManifest = [
   },
   {
     "url": "2-getting-started.php",
-    "revision": "a88c66132ddf5d944d39098753fbc0c1"
+    "revision": "ef0724389d19f5563a28419aaf8814b6"
   },
   {
     "url": "3-welcome-to-minecraft-earth.php",

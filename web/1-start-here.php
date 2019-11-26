@@ -21,10 +21,6 @@
             <p>Minecraft Earth features many of the mobs you know and love, along with a bunch of new ones. Over time, you’ll get the chance to breed unique variants, and use them to populate your builds.</p>
             <p>Your real-life neighbourhood takes on a whole new dimension thanks to Minecraft Earth. Gather resources, take on challenges, and share your imagination with others. There’s a whole new world to discover!</p>
             </div>
-            <h3 class="list-item-title">When will Minecraft Earth release?</h3>
-            <div class="list-item-description">
-            <p>Minecraft Earth will release publicly in October for both Android and IOS devices! This release date was announced live at Minecon on the 28th of August.</p>
-            <p>Once Minecraft Earth releases, you will be able to install it directly from either the Google Playstore or the Apple Appstore. And best of all, it's free to play!</p>
             <div class="tip">
                 <h4>PRO TIP!</h4>
                 <p>Click the big green 'Next' button below to continue!</p>
@@ -32,10 +28,9 @@
             </div>
         </div>
     </div>
-    <footer> 
+    <footer>
     </footer>
     </div>
     <a class="next-button" href="2-getting-started.php">Next</a>
 </body>
-<html> 
-
+<html>
