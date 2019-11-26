@@ -1,4 +1,4 @@
-<html> 
+<html>
     <?php include "php/head.php"; ?>
 <body>
 <header>Guide For Minecraft Earth</header>
@@ -82,7 +82,7 @@
         </a>
         <a href="11-adventures.php">
         <div class="small-article left">
-            <img class="small-image" src="img/thumbs/diamond-pickaxe.png">
+            <img class="small-image" src="img/thumbs/adventures.png">
             <h3>Adventures</h3>
         </div>
         </a>
@@ -106,7 +106,7 @@ if ('serviceWorker' in navigator) {
                 if (navigator.serviceWorker.controller) {
                   // At this point, the old content will have been purged and the fresh content will have been added to the cache.
                   // It's the perfect time to display a "New content is available; please refresh."
-                    
+
                   // alert pop up
                     let timerInterval
                         Swal.fire({
@@ -131,7 +131,7 @@ if ('serviceWorker' in navigator) {
                             console.log('I was closed by the timer')
                           }
                         })
-                     
+
                 } else {
                   // At this point, everything has been precached.
                   // It's the perfect time to display a "Content is cached for offline use." message.
@@ -150,4 +150,4 @@ if ('serviceWorker' in navigator) {
       });
     }
 </script>
-<html> 
+<html>

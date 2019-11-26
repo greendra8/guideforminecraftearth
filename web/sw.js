@@ -82,6 +82,10 @@ self.__precacheManifest = [
     "revision": "52af82b653f90a567277b52a90afcd1d"
   },
   {
+    "url": "css/img/background_blurred.png",
+    "revision": "39a7764a76c045a4ecabd7bbe7a09d74"
+  },
+  {
     "url": "css/img/bg_bedrock.png",
     "revision": "11724ddb1762dab4b44f3b69babe20a4"
   },
@@ -99,7 +103,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "e653f3a27589db280d483a148773ba0f"
+    "revision": "a34757a3e527b54c0a8353813a55520e"
   },
   {
     "url": "css/style1.css",
@@ -222,16 +226,16 @@ self.__precacheManifest = [
     "revision": "1dab7535e2d3c9df3a891dc748cc457a"
   },
   {
-    "url": "img/test.png",
-    "revision": "14d0494723e783f04ba0e3ae1ad5c66f"
+    "url": "img/thumbs/adventures.png",
+    "revision": "3f3b8c679dc70a3b830b6a26c9ee0c8d"
   },
   {
     "url": "img/thumbs/build-plate.png",
-    "revision": "6a1fefb32ce34d8acdeacb3d447738fb"
+    "revision": "309a135a8676b6809644f0446e8c5b38"
   },
   {
     "url": "img/thumbs/crafting-table.png",
-    "revision": "c4d1edfa1dbf071c3c63358c3bf9a12e"
+    "revision": "eb415fbb824a927f5edb1e00235c62ec"
   },
   {
     "url": "img/thumbs/diamond-pickaxe.png",
@@ -239,27 +243,27 @@ self.__precacheManifest = [
   },
   {
     "url": "img/thumbs/friends.png",
-    "revision": "da3af54a77f1cc1e679385fa1d7928dc"
+    "revision": "8f2432d5cb3c91c330e9756b304dac03"
   },
   {
     "url": "img/thumbs/grass-tappable.png",
-    "revision": "67a0e66b467bae9ae1e1756d0a9148fa"
+    "revision": "396ccb93eabe67b5e0b74eee84f446fb"
   },
   {
     "url": "img/thumbs/inventory.png",
-    "revision": "5ff6761c357de718bb6d672e0b1059db"
+    "revision": "b9f4ea61aa6b8b377ed09dc321c9d4e9"
   },
   {
     "url": "img/thumbs/item-types.png",
-    "revision": "53193e95a801786e9f3ffb22c1e4b64f"
+    "revision": "803e576b8e827731a50ddcd1e2e83f33"
   },
   {
     "url": "img/thumbs/ruby.png",
-    "revision": "08ae1e352e91bda9ce22476676a7d416"
+    "revision": "faa35f0f49956274fdd54d9d03d67e70"
   },
   {
     "url": "img/thumbs/skins.png",
-    "revision": "60a178a8241fae5262d7b863782b9bc6"
+    "revision": "839073d813962b81aa2db1ee4eda3d05"
   },
   {
     "url": "img/thumbs/stone-tappable.png",
@@ -267,7 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/thumbs/switches.png",
-    "revision": "071447988249f7c7a5c51f7545077ef9"
+    "revision": "25ca6840dbd7b1d11ef03b3c84066794"
   },
   {
     "url": "img/tree-tappable.png",
@@ -283,7 +287,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "5da1308ec8368892b6e9da9d1885c638"
+    "revision": "ee882aab0226f819bb523b7aa87e9cf6"
   },
   {
     "url": "php/head.php",
