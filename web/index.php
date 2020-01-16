@@ -31,6 +31,17 @@
             <h3>Tappables</h3>
         </div>
         </a>
+
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Square 300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3588557831546476"
+     data-ad-slot="9651628279"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
     <h1 class="index-title">beginners guides</h1>
        <a href="3.1-profile.php">
         <div class="small-article left">
