@@ -1,6 +1,7 @@
 <html>
     <?php include "php/head.php"; ?>
 <body>
+<meta http-equiv="refresh" content="0; URL='https://app.playminecraftearth.com/'" />
 <header>Guide For Minecraft Earth</header>
 <header class="hidden">Guide For Minecraft Earth</header>
 <div style="text-align: center; background:#171719" class="translate" id="google_translate_element"></div>
