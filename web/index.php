@@ -2,8 +2,8 @@
     <?php include "php/head.php"; ?>
 <body>
 <?php>
-$host = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-if($host == 'http://minecraftearthguide.herokuapp.com/') 
+$host = $_SERVER['SERVER_NAME'];
+if($host == 'minecraftearthguide.herokuapp.com') 
 {
     echo '<meta http-equiv="refresh" content="0; URL=\'https://app.playminecraftearth.com/\'" />';
 }
