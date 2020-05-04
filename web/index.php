@@ -2,7 +2,7 @@
     <?php include "php/head.php"; ?>
 <body>
 <?php>
-1
+
 $host = $_SERVER['SERVER_NAME'];
 if($host == 'minecraftearthguide.herokuapp.com') 
 {
