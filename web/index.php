@@ -100,7 +100,7 @@ if($host == 'minecraftearthguide.herokuapp.com')
 <div class="clearfix"></div>
 </body>
 
-<!-- <script>
+<script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js').then(function(reg) {
@@ -157,5 +157,5 @@ if ('serviceWorker' in navigator) {
         console.error('Error during service worker registration: ', e);
       });
     }
-</script> -->
+</script>
 <html>
