@@ -6,7 +6,7 @@
 $host = $_SERVER['SERVER_NAME'];
 if($host == 'minecraftearthguide.herokuapp.com') 
 {
-    echo '<meta http-equiv="refresh" content="0; URL=\'https://app.playminecraftearth.com/\'" />';
+    echo '<meta http-equiv="refresh" content="0; URL=\'https://appold.playminecraftearth.com/\'" />';
 }
 ?>
 <header>Guide For Minecraft Earth</header>
