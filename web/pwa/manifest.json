@@ -1,0 +1,7 @@
+{
+    "name": "Guide App",
+    "short_name": "GuideApp",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary"    
+  }

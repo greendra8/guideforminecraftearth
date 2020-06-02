@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/head.php"); ?>
+
+<body>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/nav.php"); ?>
+    <div class="container main">
+        <div class="row content">
+            <h1></h1>
+            <img src="/img/earth.png" class="rounded mx-auto d-block img">
+            <button onclick="window.location.href='/#'">Go Back</button>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/head.php"); ?>
+
+<body>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/nav.php"); ?>
+    <div class="container main">
+        <div class="row content">
+            <h1></h1>
+            <img src="/img/adventure_uncommon.png" class="rounded mx-auto d-block img">
+            <button onclick="window.location.href='/pages/adventures/index.php#'">Go Back</button>
+        </div>
+    </div>
+</body>
+
+</html>
