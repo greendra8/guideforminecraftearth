@@ -1,97 +1,105 @@
-<!DOCTYPE html>
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/head.php"); ?>
+<html>
+    <?php include "php/head.php"; ?>
+<body>
+<?php>
 
-<body ontouchstart>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/nav.php"); ?>
-    <div class="container menu">
-        <div class="row">
-            <li class="active"><a href="/"><i class="fas fa-home"></i> General</a></li>
-            <li><a href="/pages/adventures/index.php"><i class="fas fa-hiking"></i> Adventures</a></li>
-            <li><a href="/items.php"><i class="fas fa-th"></i> Items</a></li>
+$host = $_SERVER['SERVER_NAME'];
+if($host == 'minecraftearthguide.herokuapp.com') 
+{
+    echo '<meta http-equiv="refresh" content="0; URL=\'https://appold.playminecraftearth.com/\'" />';
+}
+?>
+<header>Guide For Minecraft Earth</header>
+<header class="hidden">Guide For Minecraft Earth</header>
+<div style="text-align: center; background:#171719" class="translate" id="google_translate_element"></div>
+<div class="wrapper-index">
+   <h1 class="index-title">featured articles</h1>
+       <a href="1-start-here.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/crafting-table.png">
+            <h3>Start Here!</h3>
         </div>
-    </div>
-    <div class="container main">
-        <hr>
-        <div class="clearfix" id="google_translate_element"></div>
-        <a href="/pages/general/introduction.php">
-            <div class="row listing">
-                <img src="/img/earth.png" class="rounded float-left icon" alt="...">
-                <h3 id="introduction">Introduction</h3>
-                <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
-                <button>Learn More</button>
-            </div>
         </a>
-        <a href="/pages/general/tappables.php">
-            <div class="row listing">
-                <img src="/img/stone-tappable.png" class="rounded float-left icon" alt="...">
-                <h3 id="tappables">Tappables</h3>
-                <p>What are tappables and how can you collect them? Plus what do tappable rarities mean?</p>
-                <button>Learn More</button>
-            </div>
-        </a>
-        <a href="/pages/general/inventory.php">
-            <div class="row listing">
-                <img src="/img/backpack.png" class="rounded float-left icon" alt="...">
-                <h3 id="inventory">Inventory</h3>
-                <p>How does your inventory work in Minecraft Earth and how can you access it?</p>
-                <button>Learn More</button>
-            </div>
-        </a>
-        <a href="/pages/general/profile.php">
-            <div class="row listing">
-                <img src="/img/profile.png" class="rounded float-left icon" alt="...">
-                <h3 id="profile">Profile</h3>
-                <p>What does your profile tell you and how can you view it in Minecraft Earth.</p>
-                <button>Learn More</button>
-            </div>
-        </a>
-        <a href="/pages/general/adventures.php">
-            <div class="row listing">
-                <img src="/img/adventure_crystals.png" class="rounded float-left icon" alt="...">
-                <h3 id="adventures">Adventures</h3>
-                <p>What are adventures and adventure crystals and how you can play them in Minecraft Earth.</p>
-                <button>Learn More</button>
-            </div>
-        </a>
-        <a href="/pages/general/journal.php">
-            <div class="row listing">
-                <img src="/img/journal.png" class="rounded float-left icon" alt="...">
-                <h3 id="journal">Journal</h3>
-                <p>What is the journal and how can you use it in Minecraft Earth.</p>
-                <button>Learn More</button>
-            </div>
-        </a>
-        <a href="/pages/general/challenges.php">
-            <div class="row listing">
-                <img src="/img/challenges.png" class="rounded float-left icon" alt="...">
-                <h3 id="challenges">Challenges</h3>
-                <p>How do daily challenges and tappable challenges work in Minecraft Earth?</p>
-                <button>Learn More</button>
-            </div>
-        </a>
-        <a href="/pages/general/seasons.php">
-            <div class="row listing">
-                <img src="/img/seasons.png" class="rounded float-left icon" alt="...">
-                <h3 id="seasons">Seasons</h3>
-                <p>What are seasons in Minecraft Earth and how can you complete them.</p>
-                <button>Learn More</button>
-            </div>
-        </a>
-        <div class="row listing soon">
-            <img src="/img/purple_cat.png" class="rounded float-left icon" alt="...">
-            <h3>More Coming Soon!</h3>
-            <p>Stay tuned for more Minecraft Earth guides coming soon!</p>
+        <a href="3.1-profile.php">
+         <div class="small-article right">
+            <img class="small-image" src="img/thumbs/skins.png">
+            <h3>Profile &amp; Skins</h3>
         </div>
-    </div>
-
-    <div class="container menu footer">
-        <div class="row">
-            <li><a href="/about.php">About</a></li>
-            <li><a href="/">Terms</a></li>
-            <li><a href="mailto:greendra8@hotmail.co.uk">Contact</a></li>
+        </a>
+    <h1 class="index-title">popular guides</h1>
+       <a href="4-inventory.php">
+        <div class="wide-article">
+            <img class="wide-image" src="img/thumbs/inventory.png">
+            <h3>Inventory</h3>
         </div>
-    </div>
+        </a>
+        <a href="5-tappables.php">
+        <div class="wide-article">
+            <img class="wide-image" src="img/thumbs/grass-tappable.png">
+            <h3>Tappables</h3>
+        </div>
+        </a>
+    <h1 class="index-title">beginners guides</h1>
+       <a href="3.1-profile.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/skins.png">
+            <h3>Profile &amp; Skins</h3>
+        </div>
+        </a>
+        <a href="4-inventory.php">
+         <div class="small-article right">
+            <img class="small-image" src="img/thumbs/inventory.png">
+            <h3>Inventory</h3>
+        </div>
+        </a>
+        <a href="5-tappables.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/grass-tappable.png">
+            <h3>Tappables</h3>
+        </div>
+        </a>
+        <a href="6-item-types.php">
+        <div class="small-article right">
+            <img class="small-image" src="img/thumbs/item-types.png">
+            <h3>Item Rarities</h3>
+        </div>
+        </a>
+        <a href="7-introduction-to-build-plates.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/build-plate.png">
+            <h3>Build Plates</h3>
+        </div>
+        </a>
+        <a href="8-build-modes.php">
+        <div class="small-article right">
+            <img class="small-image" src="img/thumbs/switches.png">
+            <h3>Build Modes</h3>
+        </div>
+        </a>
+        <a href="9-multiplayer.php">
+        <div class="small-article left">
+            <img class="small-image" src="img/thumbs/friends.png">
+            <h3>Multiplayer</h3>
+        </div>
+        </a>
+        <a href="10-rubies.php">
+        <div class="small-article right">
+            <img class="small-image" src="img/thumbs/ruby.png">
+            <h3>Rubies &amp; Store</h3>
+        </div>
+        </a>
+        <a href="11-adventures.php">
+        <div style="margin-bottom: 80px;"class="small-article left">
+            <img class="small-image" src="img/thumbs/adventures.png">
+            <h3>Adventures</h3>
+        </div>
+        </a>
+        <br> <br> <br>
+        <a style="padding: 5px 40px;" class="back-button" href="about.php">About</a>
+</div>
+<div class="clearfix"></div>
 </body>
+
 <script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
@@ -106,12 +114,15 @@ if ('serviceWorker' in navigator) {
                 if (navigator.serviceWorker.controller) {
                   // At this point, the old content will have been purged and the fresh content will have been added to the cache.
                   // It's the perfect time to display a "New content is available; please refresh."
-                  window.location.reload(true);
+
                   // alert pop up
+
+
+
                     let timerInterval
                         Swal.fire({
-                          title: 'Updating...',
-                          html: 'The app is restarting. Please wait <br> Closes in <strong></strong> milliseconds.',
+                          title: 'Update Downloaded!',
+                          html: 'Restart the app to see changes. Closes in <strong></strong> milliseconds.',
                           timer: 6000,
                           onBeforeOpen: () => {
                             Swal.showLoading()
@@ -150,4 +161,4 @@ if ('serviceWorker' in navigator) {
       });
     }
 </script>
-</html>
+<html>
