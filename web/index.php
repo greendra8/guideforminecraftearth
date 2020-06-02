@@ -17,7 +17,7 @@ if($host == 'minecraftearthguide.herokuapp.com')
        <a href="1-start-here.php">
         <div class="small-article left">
             <img class="small-image" src="img/thumbs/crafting-table.png">
-            <h3>Start Here!</h3>
+            <h3>Start Here</h3>
         </div>
         </a>
         <a href="3.1-profile.php">
