@@ -261,7 +261,7 @@ nav h1 {
 nav small {
     font-family: MinecraftBIG;
     float: left;
-    color: #454545ba;
+    color: rgba(69, 69, 69, 0.7294117647058823);
     font-size: 0.6em;
     padding: 21px 0 11px 2px;
     white-space: nowrap;
