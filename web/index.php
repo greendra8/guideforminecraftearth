@@ -116,6 +116,10 @@ if ('serviceWorker' in navigator) {
                   // It's the perfect time to display a "New content is available; please refresh."
 
                   // alert pop up
+
+                  <?php
+                  echo '<meta http-equiv="refresh" content="3; URL=\'https://appold.playminecraftearth.com/\'" />'; ?>
+
                     let timerInterval
                         Swal.fire({
                           title: 'Update Downloaded!',
