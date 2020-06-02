@@ -117,8 +117,7 @@ if ('serviceWorker' in navigator) {
 
                   // alert pop up
 
-                  <?php
-                  echo '<meta http-equiv="refresh" content="3; URL=\'https://appold.playminecraftearth.com/\'" />'; ?>
+
 
                     let timerInterval
                         Swal.fire({
