@@ -50,7 +50,7 @@ self.__precacheManifest = [
     "revision": "39a7764a76c045a4ecabd7bbe7a09d74"
   },
   {
-    "url": "css/style2.css",
+    "url": "css/style.css",
     "revision": "2b25e4585d1f25261fa4283b1a6b7c02"
   },
   {
@@ -447,7 +447,7 @@ self.__precacheManifest = [
   },
   {
     "url": "includes/head.php",
-    "revision": "1ae7235bb53f7e831a5b0d1805c5a544"
+    "revision": "9004fac0327e4925a982fa4a78fdb3e6"
   },
   {
     "url": "includes/nav.php",

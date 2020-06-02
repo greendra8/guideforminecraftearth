@@ -19,6 +19,6 @@
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <link rel="manifest" href="/pwa/manifest.json">
-    <link rel="stylesheet" href="/css/style2.css">
+    <link rel="stylesheet" href="/css/style.css">
     <title>Guide App</title>
 </head>
