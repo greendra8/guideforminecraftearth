@@ -51,7 +51,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "b9a7b36aa0960f1c6e7b9088d0661f9d"
+    "revision": "2b25e4585d1f25261fa4283b1a6b7c02"
   },
   {
     "url": "favicon.ico",
@@ -447,7 +447,7 @@ self.__precacheManifest = [
   },
   {
     "url": "includes/head.php",
-    "revision": "9004fac0327e4925a982fa4a78fdb3e6"
+    "revision": "122e53bfb2e0fd8496ae758b2fa4d6f7"
   },
   {
     "url": "includes/nav.php",
