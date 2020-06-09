@@ -287,7 +287,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "c1581499c2ea476da0cbad2066747345"
+    "revision": "3adc6ea75e4654b75390cab23e052357"
   },
   {
     "url": "php/head.php",
@@ -299,7 +299,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "c1bbae5beeae79854e72822b9d994a6e"
+    "revision": "070688d12ce66907812de7fa1491ef7b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
